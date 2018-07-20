@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 85a61d2a79183894a9bc36b3e437e40f
+timeCreated: 1462270531
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hill_0
+    21300002: hill_1
+    21300004: hill_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1424
+        width: 2048
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1006, y: -142}
+        - {x: 995, y: -135}
+        - {x: 988, y: -130}
+        - {x: 975, y: -122}
+        - {x: 960, y: -113}
+        - {x: 946, y: -105}
+        - {x: 926, y: -95}
+        - {x: 924, y: -93}
+        - {x: 889, y: -76}
+        - {x: 887, y: -76}
+        - {x: 869, y: -67}
+        - {x: 862, y: -64}
+        - {x: 847, y: -58}
+        - {x: 831, y: -52}
+        - {x: 825, y: -47}
+        - {x: 819, y: -40}
+        - {x: 797, y: -18}
+        - {x: 786, y: -8}
+        - {x: 768, y: 8}
+        - {x: 749, y: 22}
+        - {x: 742, y: 28}
+        - {x: 735, y: 33}
+        - {x: 725, y: 40}
+        - {x: 719, y: 44}
+        - {x: 706, y: 52}
+        - {x: 695, y: 59}
+        - {x: 686, y: 65}
+        - {x: 667, y: 76}
+        - {x: 656, y: 82}
+        - {x: 621, y: 99}
+        - {x: 610, y: 104}
+        - {x: 596, y: 110}
+        - {x: 576, y: 118}
+        - {x: 565, y: 122}
+        - {x: 532, y: 133}
+        - {x: 518, y: 137}
+        - {x: 494, y: 143}
+        - {x: 480, y: 146}
+        - {x: 470, y: 148}
+        - {x: 459, y: 150}
+        - {x: 446, y: 152}
+        - {x: 430, y: 154}
+        - {x: 421, y: 155}
+        - {x: 410, y: 156}
+        - {x: 395, y: 157}
+        - {x: 336, y: 157}
+        - {x: 335, y: 156}
+        - {x: 321, y: 156}
+        - {x: 310, y: 155}
+        - {x: 300, y: 154}
+        - {x: 292, y: 153}
+        - {x: 279, y: 151}
+        - {x: 261, y: 148}
+        - {x: 251, y: 146}
+        - {x: 247, y: 145}
+        - {x: 237, y: 143}
+        - {x: 229, y: 141}
+        - {x: 218, y: 138}
+        - {x: 204, y: 134}
+        - {x: 198, y: 132}
+        - {x: 191, y: 130}
+        - {x: 185, y: 128}
+        - {x: 168, y: 122}
+        - {x: 158, y: 118}
+        - {x: 150, y: 115}
+        - {x: 143, y: 112}
+        - {x: 128, y: 105}
+        - {x: 125, y: 107}
+        - {x: 117, y: 110}
+        - {x: 106, y: 114}
+        - {x: 73, y: 125}
+        - {x: 63, y: 128}
+        - {x: 42, y: 134}
+        - {x: 14, y: 141}
+        - {x: 0, y: 144}
+        - {x: -20, y: 148}
+        - {x: -31, y: 150}
+        - {x: -37, y: 151}
+        - {x: -44, y: 152}
+        - {x: -57, y: 154}
+        - {x: -65, y: 155}
+        - {x: -82, y: 156}
+        - {x: -83, y: 157}
+        - {x: -93, y: 158}
+        - {x: -223, y: 158}
+        - {x: -224, y: 157}
+        - {x: -243, y: 156}
+        - {x: -251, y: 155}
+        - {x: -272, y: 152}
+        - {x: -290, y: 149}
+        - {x: -315, y: 144}
+        - {x: -323, y: 142}
+        - {x: -328, y: 141}
+        - {x: -344, y: 137}
+        - {x: -355, y: 134}
+        - {x: -376, y: 128}
+        - {x: -402, y: 119}
+        - {x: -418, y: 113}
+        - {x: -433, y: 107}
+        - {x: -440, y: 104}
+        - {x: -451, y: 100}
+        - {x: -465, y: 101}
+        - {x: -520, y: 101}
+        - {x: -521, y: 100}
+        - {x: -535, y: 100}
+        - {x: -536, y: 99}
+        - {x: -555, y: 99}
+        - {x: -556, y: 98}
+        - {x: -570, y: 98}
+        - {x: -581, y: 97}
+        - {x: -591, y: 96}
+        - {x: -607, y: 94}
+        - {x: -614, y: 93}
+        - {x: -627, y: 91}
+        - {x: -643, y: 88}
+        - {x: -657, y: 85}
+        - {x: -666, y: 83}
+        - {x: -682, y: 79}
+        - {x: -689, y: 77}
+        - {x: -697, y: 75}
+        - {x: -703, y: 73}
+        - {x: -723, y: 66}
+        - {x: -731, y: 63}
+        - {x: -741, y: 59}
+        - {x: -755, y: 53}
+        - {x: -786, y: 38}
+        - {x: -800, y: 30}
+        - {x: -808, y: 25}
+        - {x: -823, y: 15}
+        - {x: -831, y: 9}
+        - {x: -849, y: -6}
+        - {x: -858, y: -14}
+        - {x: -876, y: -32}
+        - {x: -884, y: -41}
+        - {x: -892, y: -51}
+        - {x: -900, y: -62}
+        - {x: -908, y: -67}
+        - {x: -920, y: -74}
+        - {x: -944, y: -90}
+        - {x: -957, y: -99}
+        - {x: -967, y: -106}
+        - {x: -974, y: -111}
+        - {x: -985, y: -119}
+        - {x: -997, y: -128}
+        - {x: -1020, y: -146}
+        - {x: -1024, y: -150}
+        - {x: -1024, y: -155}
+        - {x: -1023, y: -156}
+        - {x: -920, y: -156}
+        - {x: -919, y: -157}
+        - {x: -671, y: -157}
+        - {x: -670, y: -158}
+        - {x: 1024, y: -158}
+        - {x: 1024, y: -154}
+    - name: hill_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 775
+        width: 912
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -456, y: 249}
+        - {x: -456, y: -249}
+        - {x: 456, y: -249}
+        - {x: 456, y: 249}
+    - name: hill_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 127
+        width: 911
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -455.5, y: 248.5}
+        - {x: -455.5, y: -248.5}
+        - {x: 455.5, y: -248.5}
+        - {x: 455.5, y: 248.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
